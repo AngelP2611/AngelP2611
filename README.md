@@ -5,3 +5,9 @@
 Me gsuta el futbol
 
 Me gusta jugar play
+
+# Hobbies
+
+- Futbol
+- Ver TV
+- Viajar
