@@ -5,3 +5,10 @@
 Me gsuta el futbol
 
 Me gusta jugar play
+
+# Skills
+
+- Futbol
+- Analisis
+- Orientacion a resultados
+- Mejora continua
