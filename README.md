@@ -5,3 +5,8 @@
 Me gsuta el futbol
 
 Me gusta jugar play
+
+## Languages
+
+- English
+- Español
